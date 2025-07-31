@@ -1,3 +1,4 @@
 venv
 easyocr-env
 tesseract-ocr-env
+trocr-env
